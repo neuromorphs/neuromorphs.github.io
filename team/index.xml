@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on Institute of Neuromorphic Engineering</title>
+    <link>https://neuromorphs.github.io/team/</link>
+    <description>Recent content in Team on Institute of Neuromorphic Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://neuromorphs.github.io/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guido Zarrella</title>
+      <link>https://neuromorphs.github.io/team/guido-zarrella/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuromorphs.github.io/team/guido-zarrella/</guid>
+      <description> Chief Scientist MITRE Corporation Denver, CO, USA  </description>
+    </item>
+    
+    <item>
+      <title>Jonathan Tapson</title>
+      <link>https://neuromorphs.github.io/team/jon-tapson/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://neuromorphs.github.io/team/jon-tapson/</guid>
+      <description> Chief Scientific Officer GrAI Matter Labs Telluride, CO, USA  </description>
+    </item>
+    
+    <item>
+      <title>Katalin Gothard</title>
+      <link>https://neuromorphs.github.io/team/katalin-gothard/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://neuromorphs.github.io/team/katalin-gothard/</guid>
+      <description> Professor of Physiology and Neuroscience University of Arizona Tucson, AZ, USA  </description>
+    </item>
+    
+    <item>
+      <title>Board of Directors</title>
+      <link>https://neuromorphs.github.io/team/board/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuromorphs.github.io/team/board/</guid>
+      <description> Board of Directors  Andreas Andreou (Johns Hopkins University) Avis Cohen (University of Maryland) Giacomo Indiveri (University of Zurich and ETH Zurich) Jennifer Hasler (Georgia Institute of Technology) Timothy Horiuchi (University of Maryland) Ralph Etienne-Cummings (Johns Hopkins University) Rodney Douglas (University of Zurich and ETH Zurich) Shihab Shamma (University of Maryland) Terry Sejnowski (Salk Inst. &amp;amp; UC San Diego)  </description>
+    </item>
+    
+  </channel>
+</rss>

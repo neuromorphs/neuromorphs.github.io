@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Institute of Neuromorphic Engineering</title>
+    <link>https://neuromorphs.github.io/</link>
+    <description>Recent content in Home on Institute of Neuromorphic Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://neuromorphs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guido Zarrella</title>
+      <link>https://neuromorphs.github.io/team/guido-zarrella/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuromorphs.github.io/team/guido-zarrella/</guid>
+      <description> Chief Scientist MITRE Corporation Denver, CO, USA  </description>
+    </item>
+    
+    <item>
+      <title>Telluride Neuromorphic Cognition Engineering Workshop</title>
+      <link>https://neuromorphs.github.io/activities/telluride/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://neuromorphs.github.io/activities/telluride/</guid>
+      <description>Neuromorphic engineers design and fabricate artificial neural systems whose organizing principles are based on those of biological nervous systems. This research community has focused on the understanding of low-level sensory processing and systems infrastructure; efforts are now expanding to apply this knowledge and infrastructure to addressing higher-level problems in perception, cognition, and learning. In this 3-week intensive workshop and through the Institute for Neuromorphic Engineering (INE), the mission is to promote interaction between senior and junior researchers; to educate new members of the community; to introduce new enabling fields and applications to the community; to promote on-going collaborative activities emerging from the Workshop, and to promote a self-sustaining research field.</description>
+    </item>
+    
+    <item>
+      <title>Jonathan Tapson</title>
+      <link>https://neuromorphs.github.io/team/jon-tapson/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://neuromorphs.github.io/team/jon-tapson/</guid>
+      <description> Chief Scientific Officer GrAI Matter Labs Telluride, CO, USA  </description>
+    </item>
+    
+    <item>
+      <title>Capo Caccia Cognitive Neuromorphic Engineering Workshop</title>
+      <link>https://neuromorphs.github.io/activities/capocaccia/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://neuromorphs.github.io/activities/capocaccia/</guid>
+      <description>This is a very unconventional and exciting workshop where we bring together experts in neuroscience, neuromorphic engineering, cognitive sciences and robotics to discuss about the open problems in these fields and attempt to find routes to their resolution. We take as our foundation participants members of a group of already related EU groups that are involved in presently funded projects, a number of persons who have been involved in the ​Telluride Neuromorphic Engineering Workshop, and additional colleagues and collaborators.</description>
+    </item>
+    
+    <item>
+      <title>Katalin Gothard</title>
+      <link>https://neuromorphs.github.io/team/katalin-gothard/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://neuromorphs.github.io/team/katalin-gothard/</guid>
+      <description> Professor of Physiology and Neuroscience University of Arizona Tucson, AZ, USA  </description>
+    </item>
+    
+    <item>
+      <title>Frontiers in Neuroscience | Neuromorphic Engineering</title>
+      <link>https://neuromorphs.github.io/activities/frontiers/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://neuromorphs.github.io/activities/frontiers/</guid>
+      <description>The mission of the Frontiers in Neuromorphic Engineering journal is to provide a publication medium dedicated exclusively and specifically to our field. Topics covered by this publication include:
+ Analog and hybrid analog/digital electronic circuits for implementing neural processes, such as conductances, neurons, synapses, plasticity mechanisms, photoreceptors, cochleae, etc. Neuromorphic circuits and systems for implementing real-time event-based neural processing architectures. Hardware models of neural and sensorimotor processing systems, such as selective attention systems, coordinate transformation systems, auditory and/or visual processing systems, sensory fusion systems, etc.</description>
+    </item>
+    
+    <item>
+      <title>Board of Directors</title>
+      <link>https://neuromorphs.github.io/team/board/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuromorphs.github.io/team/board/</guid>
+      <description> Board of Directors  Andreas Andreou (Johns Hopkins University) Avis Cohen (University of Maryland) Giacomo Indiveri (University of Zurich and ETH Zurich) Jennifer Hasler (Georgia Institute of Technology) Timothy Horiuchi (University of Maryland) Ralph Etienne-Cummings (Johns Hopkins University) Rodney Douglas (University of Zurich and ETH Zurich) Shihab Shamma (University of Maryland) Terry Sejnowski (Salk Inst. &amp;amp; UC San Diego)  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://neuromorphs.github.io/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>https://neuromorphs.github.io/contact/</guid>
+      <description>Contact us at XXXXXXXX!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://neuromorphs.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuromorphs.github.io/about/</guid>
+      <description>The mission of the Institute of Neuromorphic Engineering (INE) is to foster the network of interdisciplinary researchers and scholars working on neuromorphic theories, models, circuits and systems; and to provide tools and support for networking, intellectual discourse, education, publications, and sharing of resources.
+This site is designed to encourage exchange of information and resources among practitioners in the field of neuromorphic engineering. INE provides educational material, and promotes discourse between members of the neuromorphic engineering community.</description>
+    </item>
+    
+  </channel>
+</rss>
